@@ -1,4 +1,4 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Computer Science graduate (April 2025) actively seeking my first professional role in software development, IT, or anything within the Technology Business Sphere. Really at the end of the day I am just looking for my niche after graduating. Whatever position I find myself in will be the one I plan on throwing myself at with abandon until I have a career path to follow. I'm passionate about technology and constantly expanding my skills to tackle new challenges.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
