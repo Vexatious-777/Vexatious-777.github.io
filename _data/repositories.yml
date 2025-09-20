@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Vexatious-777 # your GitHub user name
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Vexatious-777/IT-HomeLab-and-Portfolio # your GitHub repo name
+  - Vexatious-777/CS-465
+  - Vexatious-777/CS-360
+  - Vexatious-777/CS330
+  - Vexatious-777/Papa
+  - Vexatious-777/CS-255
+  - Vexatious-777/HealthCare_Data_Mockup
