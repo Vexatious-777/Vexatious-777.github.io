@@ -1,0 +1,172 @@
+{
+  "basics": {
+    "name": "Alexander Griffith",
+    "label": "IT Professional",
+    "image": "",
+    "email": "alexander.griffith.12@outlook.com",
+    "phone": "(407) 948-3230",
+    "url": "https://Vexatious-777.github.io/Portfolio/",
+    "summary": "An IT Professional with a strong background in software development and 10 years of Customer Service Experience, with a passion for creating innovative solutions.",
+    "location": {
+      "address": "2413 Limewood Ave",
+      "postalCode": "FL 34714",
+      "city": "Clermont",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "alexg12",
+        "url": "https://www.linkedin.com/in/alexg12/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Target T#1519",
+      "position": "Team Member / Barista",
+      "url": "https://www.Target.com",
+      "startDate": "2015-06-01",
+      "endDate": "current"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southern New Hampshire University",
+      "location": "Online",
+      "url": "https://www.snhu.edu",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-06-01",
+      "endDate": "2025-04-01",
+      "GPA": "3.66",
+      "courses": ["Data Structures and Algorithms", "Database Management Systems",
+          "Operating Systems", "Software Engineering", "Web Development", "Systems Analysis and Design"]
+    },
+    {
+      "institution": "Purdue University Global",
+      "location": "Online",
+      "url": "https://www.purdueglobal.edu",
+      "area": "Information Technology",
+      "studyType": "Master of Science",
+      "startDate": "2025-06-28",
+      "endDate": "2027-04-01",
+      "GPA": "TBD"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": ["Python", "Java", "C++", "JavaScript", "HTML/CSS", "SQL"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "MongoDB",
+        "MySQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-wrench",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Git",
+        "JIRA",
+        "CI/CD",
+        "Unit Testing",
+        "Integration Testing",
+        "System Testing",
+        "OOP",
+        "Design Patterns",
+        "SDLC",
+        "Test-Driven Development (TDD)"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "Beginner/Learning",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "Learning AWS",
+        "Learning Azure",
+        "Learning Google Cloud",
+        "Learning Docker",
+        "Learning Kubernetes"
+      ]
+    },
+    {
+      "name": "Communication",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-comment",
+      "keywords": [
+        "Customer Service",
+        "Collaboration",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Problem Solving",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-lightbulb",
+      "keywords": [
+        "Logical Thinking",
+        "Critical Thinking",
+        "Problem-solving Skills",
+        "Adaptability"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "Windows",
+        "Learning Linux",
+        "Learning macOS"
+      ]
+    },
+    {
+      "name": "Networking Fundamentals",
+      "level": "Beginner/Learning",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "TCP/IP",
+        "Subnets",
+        "VLANs",
+        "DNS",
+        "DHCP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ]
+}
