@@ -58,18 +58,18 @@ layout: default
     </p>
   </header>
 
-  <article class="post-content">
-    {% if page.toc and page.toc.beginning %}
-      <div id="table-of-contents">
-        * TOC
-        < {:toc}
-      </div>
-      <hr>
-    {% endif %}
-    <div id="markdown-content">
-      {{ content }}
+<article class="post-content">
+  {% if page.toc and page.toc.beginning %}
+    <div class="table-of-contents">
+      * TOC
+      {:toc}
     </div>
-  </article>
+    <hr>
+  {% endif %}
+  <div id="markdown-content">
+    {{ content }}
+  </div>
+</article>
 
   {% if page.citation %}
     {% include citation.liquid %}
